@@ -1,0 +1,193 @@
+Name,Favorite Color,Favorite Food,Favorite Number,Age
+Alice,Red,Pizza,42,30
+Bob,,Hamburger,27,45
+,,Sushi,35,22
+Charlie,Blue,,68,28
+David,Green,Steak,,35
+Eve,Purple,,50,32
+,Fav food,Fav color,24,40
+Grace,,Ice Cream,23,27
+Henry,Black,Spaghetti,13,50
+,,Rice,41,33
+Ivy,Orange,Salad,7,38
+,,Donuts,,22
+Jack,Yellow,,65,24
+,,Chicken,,40
+Lily,White,French Fries,9,21
+Mia,Gray,,55,26
+,Noodles,,17,29
+Olivia,Blue,Pasta,33,25
+Paul,Red,Pizza,,38
+,,Curry,12,31
+Quinn,Green,,14,23
+Rita,Black,Pasta,41,34
+,,Burger,8,26
+Sam,Yellow,Sushi,61,35
+Tina,Orange,,30,27
+,Orange,,17,40
+Ursula,Red,Lasagna,2,44
+Victor,,Fried Chicken,19,50
+Wendy,Blue,Steak,60,25
+Xander,Green,Chicken,,28
+Yvonne,White,Ice Cream,,36
+Zane,,Pasta,15,29
+Alice,Red,Pizza,42,30
+Bob,,Hamburger,27,45
+,,Sushi,35,22
+Charlie,Blue,,68,28
+David,Green,Steak,,35
+Eve,Purple,,50,32
+,Fav food,Fav color,24,40
+Grace,,Ice Cream,23,27
+Henry,Black,Spaghetti,13,50
+,,Rice,41,33
+Ivy,Orange,Salad,7,38
+,,Donuts,,22
+Jack,Yellow,,65,24
+,,Chicken,,40
+Lily,White,French Fries,9,21
+Mia,Gray,,55,26
+,Noodles,,17,29
+Olivia,Blue,Pasta,33,25
+Paul,Red,Pizza,,38
+,,Curry,12,31
+Quinn,Green,,14,23
+Rita,Black,Pasta,41,34
+,,Burger,8,26
+Sam,Yellow,Sushi,61,35
+Tina,Orange,,30,27
+,Orange,,17,40
+Ursula,Red,Lasagna,2,44
+Victor,,Fried Chicken,19,50
+Wendy,Blue,Steak,60,25
+Xander,Green,Chicken,,28
+Yvonne,White,Ice Cream,,36
+Zane,,Pasta,15,29
+Alice,Red,Pizza,42,30
+Bob,,Hamburger,27,45
+,,Sushi,35,22
+Charlie,Blue,,68,28
+David,Green,Steak,,35
+Eve,Purple,,50,32
+,Fav food,Fav color,24,40
+Grace,,Ice Cream,23,27
+Henry,Black,Spaghetti,13,50
+,,Rice,41,33
+Ivy,Orange,Salad,7,38
+,,Donuts,,22
+Jack,Yellow,,65,24
+,,Chicken,,40
+Lily,White,French Fries,9,21
+Mia,Gray,,55,26
+,Noodles,,17,29
+Olivia,Blue,Pasta,33,25
+Paul,Red,Pizza,,38
+,,Curry,12,31
+Quinn,Green,,14,23
+Rita,Black,Pasta,41,34
+,,Burger,8,26
+Sam,Yellow,Sushi,61,35
+Tina,Orange,,30,27
+,Orange,,17,40
+Ursula,Red,Lasagna,2,44
+Victor,,Fried Chicken,19,50
+Wendy,Blue,Steak,60,25
+Xander,Green,Chicken,,28
+Yvonne,White,Ice Cream,,36
+Zane,,Pasta,15,29
+Alice,Red,Pizza,42,30
+Bob,,Hamburger,27,45
+,,Sushi,35,22
+Charlie,Blue,,68,28
+David,Green,Steak,,35
+Eve,Purple,,50,32
+,Fav food,Fav color,24,40
+Grace,,Ice Cream,23,27
+Henry,Black,Spaghetti,13,50
+,,Rice,41,33
+Ivy,Orange,Salad,7,38
+,,Donuts,,22
+Jack,Yellow,,65,24
+,,Chicken,,40
+Lily,White,French Fries,9,21
+Mia,Gray,,55,26
+,Noodles,,17,29
+Olivia,Blue,Pasta,33,25
+Paul,Red,Pizza,,38
+,,Curry,12,31
+Quinn,Green,,14,23
+Rita,Black,Pasta,41,34
+,,Burger,8,26
+Sam,Yellow,Sushi,61,35
+Tina,Orange,,30,27
+,Orange,,17,40
+Ursula,Red,Lasagna,2,44
+Victor,,Fried Chicken,19,50
+Wendy,Blue,Steak,60,25
+Xander,Green,Chicken,,28
+Yvonne,White,Ice Cream,,36
+Zane,,Pasta,15,29
+Alice,Red,Pizza,42,30
+Bob,,Hamburger,27,45
+,,Sushi,35,22
+Charlie,Blue,,68,28
+David,Green,Steak,,35
+Eve,Purple,,50,32
+,Fav food,Fav color,24,40
+Grace,,Ice Cream,23,27
+Henry,Black,Spaghetti,13,50
+,,Rice,41,33
+Ivy,Orange,Salad,7,38
+,,Donuts,,22
+Jack,Yellow,,65,24
+,,Chicken,,40
+Lily,White,French Fries,9,21
+Mia,Gray,,55,26
+,Noodles,,17,29
+Olivia,Blue,Pasta,33,25
+Paul,Red,Pizza,,38
+,,Curry,12,31
+Quinn,Green,,14,23
+Rita,Black,Pasta,41,34
+,,Burger,8,26
+Sam,Yellow,Sushi,61,35
+Tina,Orange,,30,27
+,Orange,,17,40
+Ursula,Red,Lasagna,2,44
+Victor,,Fried Chicken,19,50
+Wendy,Blue,Steak,60,25
+Xander,Green,Chicken,,28
+Yvonne,White,Ice Cream,,36
+Zane,,Pasta,15,29
+Alice,Red,Pizza,42,30
+Bob,,Hamburger,27,45
+,,Sushi,35,22
+Charlie,Blue,,68,28
+David,Green,Steak,,35
+Eve,Purple,,50,32
+,Fav food,Fav color,24,40
+Grace,,Ice Cream,23,27
+Henry,Black,Spaghetti,13,50
+,,Rice,41,33
+Ivy,Orange,Salad,7,38
+,,Donuts,,22
+Jack,Yellow,,65,24
+,,Chicken,,40
+Lily,White,French Fries,9,21
+Mia,Gray,,55,26
+,Noodles,,17,29
+Olivia,Blue,Pasta,33,25
+Paul,Red,Pizza,,38
+,,Curry,12,31
+Quinn,Green,,14,23
+Rita,Black,Pasta,41,34
+,,Burger,8,26
+Sam,Yellow,Sushi,61,35
+Tina,Orange,,30,27
+,Orange,,17,40
+Ursula,Red,Lasagna,2,44
+Victor,,Fried Chicken,19,50
+Wendy,Blue,Steak,60,25
+Xander,Green,Chicken,,28
+Yvonne,White,Ice Cream,,36
+Zane,,Pasta,15,29
